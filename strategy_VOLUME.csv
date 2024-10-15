@@ -1,3 +1,2 @@
 strategyId,parameterId,instrument,tf,function,stdv_rolling_period,stdv_neg,avg_volatility_rolling_peirod,zscore_sum_rolling_period,zscore_sum_avg_rolling_period,change_per_avg_rolling_period,opt_summary_avg_period,opt_summary_threshold,fractal_period,fractal_high_low_avg_peirod,fractal_low_threshold,fractal_high_threshold
-1,1,BANDHANBNK,60,VOLUME,0,,0,5,40,0,0,0,0,0,0,0
-2,1,BANDHANBNK,375,VOLUME,0,,0,5,10,0,0,0,0,0,0,0
+1,1,BANDHANBNK,375,VOLUME,0,,0,10,10,0,0,0,0,0,0,0

@@ -35,3 +35,9 @@ archive.zip
 deployment-docker-compose.yml
 
 alembic/versions/*
+
+
+# OUTPUT FOLDERS
+VOLATILE/*
+VOLUME/*
+OUTPUT_STATUS/*
