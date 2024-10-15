@@ -1,0 +1,5 @@
+{
+    "STRATEGY_FILE_PATH":"D:\\code\\SMIT\\BackTesting_Positional_Intraday\\Input\\strategy.csv",
+    "FUNCTIONS_FILE_PATH":"D:\\code\\SMIT\\BackTesting_Positional_Intraday\\Input\\functions.csv",
+    "CAPITAL_RISK_FILE_PATH":"D:\\code\\SMIT\\BackTesting_Positional_Intraday\\Input\\capitalrisk.csv"
+}

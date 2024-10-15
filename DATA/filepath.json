@@ -1,0 +1,7 @@
+{
+    "SPOT_DATA":"D:\\MBM\\MBM_DATA_BACKTEST\\json_with_volume",
+    "EXISTING_SPOT_DATA_TIMEFRAME":"C:\\VSCODE\\BackTesting_Positional_Intraday\\Input\\functions.csv",
+    "FUT_DATA":"C:\\VSCODE\\BackTesting_Positional_Intraday\\Input\\capitalrisk.csv",
+    "OPT_DATA":"C:\\VSCODE\\BackTesting_Positional_Intraday\\Input\\capitalrisk.csv",
+    "PCR_DATA":"C:\\OptionChain_Data"
+}
