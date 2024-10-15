@@ -495,7 +495,6 @@ def init_ohlc_calculation(
     data_collection: dict,
     instrument_unique_dt_collection: dict,
 ):
-    breakpoint()
     try:
         logger.info(f"calculating ohlc from BASE TIMEFRAME {BASE_TIMEFRAME}")
         tf_data_collection = {}
@@ -635,7 +634,6 @@ def run(strategy_df:pd.DataFrame, symbol: str, strategy: str):
         data_collection, instrument_unique_dt_collection = load_init_data(
             strategy_df
         )
-        breakpoint()    
         tf_data_collection = init_ohlc_calculation(
             strategy_df, data_collection, instrument_unique_dt_collection
         )
